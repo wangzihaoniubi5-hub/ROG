@@ -1,0 +1,17 @@
+# 编译和构建目录
+build/
+install/
+log/
+
+# IDE 和工具配置
+.vscode/
+.claude/
+
+# 不需要上传的 src 子目录
+src/driver_livox/
+src/driver_rslidar/
+src/livox_clustering_py/
+
+# 其他常见临时文件（可选）
+*.pyc
+__pycache__/
