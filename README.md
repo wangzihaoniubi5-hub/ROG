@@ -95,6 +95,9 @@ ip：雷达当前 IP → 192.168.1.180
 
 
 测试
+<<<<<<< HEAD:src/README_CN.md
 
+=======
+>>>>>>> cd4f4a22bcfeb8bbd28ae53bdecaa8b22390e797:README.md
 
 
