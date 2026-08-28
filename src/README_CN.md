@@ -94,7 +94,7 @@ ip：雷达当前 IP → 192.168.1.180
 	gedit /home/pc/why/src/driver_livox/livox_ros_driver2/config/MID360_config.json
 
 
-修改
+测试
 
 
 
